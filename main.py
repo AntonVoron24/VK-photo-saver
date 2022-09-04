@@ -1,8 +1,8 @@
 import save
-from save import *
 from VK import *
 import yadisk
 from pprint import pprint
+
 
 """Для выполнения скрипта можно вставить токен доступа в файл .env"""
 
